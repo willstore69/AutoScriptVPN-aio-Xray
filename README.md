@@ -49,3 +49,6 @@ TELEGRAM : https://t.me/user_legend
 
 # TAMPILAN AWAL SAAT LOGIN
 ![20220701_194351](https://user-images.githubusercontent.com/107354006/176888293-f1f67685-8eb1-4ae2-b8d1-57782483fecc.jpg)
+
+# TAMPILAN MENU
+![CamScanner 07-01-2022 19 04](https://user-images.githubusercontent.com/107354006/176888632-1ea9b3f8-050b-439b-a8df-99df2f1fb1af.jpg)
