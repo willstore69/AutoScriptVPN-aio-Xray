@@ -30,3 +30,7 @@ xray versi » 1.5.8
 
 - [+] AUTO CLEAR LOG 05.00 WIB
  
+# OS SUPPORT
+- DEBIAN 9/10
+- UBUNTU 18.04 - 20.04
+- KVM
