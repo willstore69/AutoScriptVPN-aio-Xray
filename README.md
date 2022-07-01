@@ -24,6 +24,8 @@ xray versi » 1.5.8
 
 # Apa Saja Yang Menarik ?
 
+- [+] FREE SUBDOMAIN POINTING AWAL SETUP
+
 - [+] MULTI PORT XRAY TLS & NTLS
 
 - [+] AUTO BACKUP VIA BOT TELEGRAM
