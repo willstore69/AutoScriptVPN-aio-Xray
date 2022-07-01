@@ -1,4 +1,5 @@
-#SERVICES : - 1 PORT MULTI PROTOCOL (XRAY CORE)
+#SERVICES :
+
 xray versi » 1.5.8
  + vmess ws tls &amp; ntls [443/8880]
  + vmess tcp &amp; tls [443]
@@ -18,3 +19,6 @@ xray versi » 1.5.8
  + sstp [444]
  + slowdns
  + l2tp
+
++ SIMPLE
++ EASY SETUP
