@@ -1,4 +1,4 @@
-#SERVICES :
+AUTOSCRIPT FOR UBUNTU/DEBIAN
 
 xray versi » 1.5.8
  + vmess ws tls &amp; ntls [443/8880]
@@ -7,8 +7,6 @@ xray versi » 1.5.8
  + vless xtls [443]
  + trojan tcp &amp; tls [443]
  + trojan ws &amp; tls [443]
- 
-#OTHER_SERVICES
  + ssh stunnel [6443 &amp; 777]
  + ssh ws ssl [6443]
  + ssh ws [2052]
@@ -20,5 +18,7 @@ xray versi » 1.5.8
  + slowdns
  + l2tp
 
-+ SIMPLE
-+ EASY SETUP
+
+
+[+] EASY SETUP
+[+] 
