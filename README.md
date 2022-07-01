@@ -55,3 +55,6 @@ xray versi » 1.5.8
 
 # TAMPILAN COMMAND : change-port
 ![20220701_195019](https://user-images.githubusercontent.com/107354006/176889171-40656165-1611-4282-ba1a-426ad395d1f1.jpg)
+
+# TAMPILAN COMMAND : force-host
+![20220701_195436](https://user-images.githubusercontent.com/107354006/176889706-414ebd37-765e-4096-853b-6d7e82d445f9.jpg)
