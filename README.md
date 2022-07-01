@@ -1,5 +1,8 @@
 # AUTOSCRIPT FOR UBUNTU/DEBIAN
 
+# CONTACT
+TELEGRAM : https://t.me/user_legend
+
 xray versi » 1.5.8
  + VMESS WS TLS &amp; NTLS [443/8880]
  + VMESS TCP &amp; TLS [443]
@@ -43,9 +46,6 @@ xray versi » 1.5.8
 - DEBIAN 9/10
 - UBUNTU 18.04 - 20.04
 - KVM
-
-# CONTACT
-TELEGRAM : https://t.me/user_legend
 
 # TAMPILAN AWAL SAAT LOGIN
 ![20220701_194351](https://user-images.githubusercontent.com/107354006/176888293-f1f67685-8eb1-4ae2-b8d1-57782483fecc.jpg)
