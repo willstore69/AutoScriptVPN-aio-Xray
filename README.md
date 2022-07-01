@@ -1,4 +1,4 @@
-AUTOSCRIPT FOR UBUNTU/DEBIAN
+# AUTOSCRIPT FOR UBUNTU/DEBIAN
 
 xray versi » 1.5.8
  + vmess ws tls &amp; ntls [443/8880]
@@ -19,8 +19,7 @@ xray versi » 1.5.8
  + l2tp
 
 
-
-#Apa Saja Yang Menarik ?
+# Apa Saja Yang Menarik ?
 
 - [+] AUTO BACKUP VIA BOT TELEGRAM
 
