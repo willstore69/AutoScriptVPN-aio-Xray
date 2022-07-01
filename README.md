@@ -21,6 +21,8 @@ xray versi » 1.5.8
 
 # Apa Saja Yang Menarik ?
 
+- [+] MULTI PORT XRAY TLS & NTLS
+
 - [+] AUTO BACKUP VIA BOT TELEGRAM
 
 - [+] AUTO SEND TRIAL ACCOUNT VPN VIA BOT TELEGRAM
