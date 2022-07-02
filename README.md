@@ -27,7 +27,7 @@ xray versi » 1.5.8
 
 # Apa Saja Yang Menarik ?
 
-- [+] FREE SUBDOMAIN POINTING AWAL SETUP
+- [+] FREE RANDOM SUBDOMAIN POINTING AWAL SETUP
 
 - [+] MULTI PORT XRAY TLS & NTLS
 
