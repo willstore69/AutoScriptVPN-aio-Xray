@@ -58,7 +58,7 @@ xray versi » 1.5.8
 ![20220701_194351](https://user-images.githubusercontent.com/107354006/176888293-f1f67685-8eb1-4ae2-b8d1-57782483fecc.jpg)
 
 # TAMPILAN MENU
-![CamScanner 07-02-2022 23 40](https://user-images.githubusercontent.com/107354006/177007220-e78e38bc-5aa6-4d8f-aee0-e90be065d851.jpg)
+![CamScanner 07-04-2022 16 28](https://user-images.githubusercontent.com/107354006/177115121-b40615d7-124a-4578-82ba-d653c20e5cb6.jpg)
 
 # TAMPILAN COMMAND : change-port
 ![20220701_195019](https://user-images.githubusercontent.com/107354006/176889171-40656165-1611-4282-ba1a-426ad395d1f1.jpg)
