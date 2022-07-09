@@ -64,7 +64,7 @@ xray versi » 1.5.8
 ![CamScanner 07-09-2022 09 27](https://user-images.githubusercontent.com/107354006/178086578-db526100-ecd9-42ac-93aa-d202622a749a.jpg)
 
 # TAMPILAN COMMAND : change-port
-![20220701_195019](https://user-images.githubusercontent.com/107354006/176889171-40656165-1611-4282-ba1a-426ad395d1f1.jpg)
+![CamScanner 07-09-2022 09 42](https://user-images.githubusercontent.com/107354006/178087003-ac68c21b-b082-4a23-baaf-1e77e2eb4b10.jpg)
 
 # TAMPILAN COMMAND : force-host
 ![20220701_195436](https://user-images.githubusercontent.com/107354006/176889706-414ebd37-765e-4096-853b-6d7e82d445f9.jpg)
