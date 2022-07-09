@@ -5,7 +5,7 @@ TELEGRAM : https://t.me/user_legend
 
 xray versi » 1.5.8
  + VMESS WS TLS &amp; NTLS [443/8880]
- + VMESS TCP &amp; TLS [443]
+ + VMESS TCP TLS [443]
  + VLESS WS TLS &amp; NTLS [443/8880]
  + VLESS TCP XTLS [443]
  + TROJAN TCP TLS [443]
