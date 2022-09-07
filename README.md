@@ -58,7 +58,7 @@ xray versi » 1.5.10
 - KVM
 
 # TAMPILAN AWAL SAAT LOGIN
-![20220701_194351](https://user-images.githubusercontent.com/107354006/176888293-f1f67685-8eb1-4ae2-b8d1-57782483fecc.jpg)
+![20220908_025805](https://user-images.githubusercontent.com/107354006/188956518-c08c32a4-4025-421a-9c7a-7b707cee3461.jpg)
 
 # TAMPILAN MENU
 ![CamScanner 07-09-2022 09 27](https://user-images.githubusercontent.com/107354006/178086578-db526100-ecd9-42ac-93aa-d202622a749a.jpg)
