@@ -3,7 +3,7 @@
 # CONTACT
 TELEGRAM : https://t.me/user_legend
 
-xray versi » 1.5.8
+xray versi » 1.5.10
  + VMESS WS TLS &amp; NTLS [443/8880]
  + VMESS TCP TLS [443]
  + VLESS WS TLS &amp; NTLS [443/8880]
