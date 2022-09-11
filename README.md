@@ -20,7 +20,7 @@
 
 ***» ssh ws ssl [default port 6443]***
 
-***» stunnel5 [default 6443,777]***
+***» stunnel5 [default port 6443,777]***
 
 ***» ssh ws [default port 2052]***
 
