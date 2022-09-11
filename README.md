@@ -1,145 +1,149 @@
-AUTOSC VPN v2
+# AUTOSC VPN v2
 
-- xray 1.5.10
+***xray 1.5.10***
 
-» vmess ws tls & ntls [default port 443 & 8880]
+***» vmess ws tls & ntls [default port 443 & 8880]***
 
-» vmess tcp http [default port 443]
+***» vmess tcp http [default port 443]***
 
-» vless ws tls & ntls [default port 443 & 8880]
+***» vless ws tls & ntls [default port 443 & 8880]***
 
-» vless tcp xtls [default port 443]
+***» vless tcp xtls [default port 443]***
 
-» trojan ws tls [default port 443]
+***» trojan ws tls [default port 443]***
 
-» trojan tcp tls [default port 443]
+***» trojan tcp tls [default port 443]***
 
-» shadowsocks2022 ws tls [default port 443]
-
-————————————————————
-
-» ssh ws ssl [default port 6443]
-
-» stunnel5 [default 6443,777]
-
-» ssh ws [default port 2052]
-
-» ovpn tcp,udp,ssl [default port 1194,2200,442]
-
-» ovpn ws [default port 2095]
-
-» slowdns
+***» shadowsocks2022 ws tls [default port 443]***
 
 ————————————————————
 
-» l2tp [default port server 1701]
+***» ssh ws ssl [default port 6443]***
 
-» sstp [default port 444]
+***» stunnel5 [default 6443,777]***
 
-————————————————————
+***» ssh ws [default port 2052]***
 
-menu change port:
+***» ovpn tcp,udp,ssl [default port 1194,2200,442]***
 
-» change port xray tls & ntls
+***» ovpn ws [default port 2095]***
 
-» change port ssh ws ssl & stunnel5
-
-» change port ovpn ssl
-
-» change port sstp
+***» slowdns***
 
 ————————————————————
 
-menu change path:
+***» l2tp [default port server 1701]***
 
-» change path vmess ws tls & ntls
-
-» change path vmess tcp http
-
-» change path vless ws tls & ntls
-
-» change path trojan ws tls
-
-» change path shadowsocks2022 ws tls
+***» sstp [default port 444]***
 
 ————————————————————
 
-menu trial:
+# menu change port:
 
-» trial ssh ws ssl,ovpn,slowdns
+***» change port xray tls & ntls***
 
-» trial vmess ws tls & ntls
+***» change port ssh ws ssl & stunnel5***
 
-» trial vmess tcp http
+***» change port ovpn ssl***
 
-» trial vless ws tls & ntls
-
-» trial vless tcp xtls
-
-» trial trojan ws tls
-
-» trial trojan tcp tls
-
-» trial shadowsocks2022 ws tls
+***» change port sstp***
 
 ————————————————————
 
-menu detail client exist:
+# menu change path:
 
-» detail vmess ws tls & ntls
+***» change path vmess ws tls & ntls***
 
-» detail vmess tcp http
+***» change path vmess tcp http***
 
-» detail vless ws tls & ntls
+***» change path vless ws tls & ntls***
 
-» detail vless tcp xtls
+***» change path trojan ws tls***
 
-» detail trojan ws tls
-
-» detail trojan tcp tls
-
-» detail shadowsocks2022 ws tls
+***» change path shadowsocks2022 ws tls***
 
 ————————————————————
 
-spec required:
+# menu trial:
 
-» os debian 10 or ubuntu 18.04 or ubuntu 20.04
+***» trial ssh ws ssl,ovpn,slowdns***
 
-» minimum ram 1 gb
+***» trial vmess ws tls & ntls***
 
-» minimum cpu 1
+***» trial vmess tcp http***
 
-» kvm
+***» trial vless ws tls & ntls***
+
+***» trial vless tcp xtls***
+
+***» trial trojan ws tls***
+
+***» trial trojan tcp tls***
+
+***» trial shadowsocks2022 ws tls***
+
+————————————————————
+
+# menu detail client exist:
+
+***» detail vmess ws tls & ntls***
+
+***» detail vmess tcp http***
+
+***» detail vless ws tls & ntls***
+
+***» detail vless tcp xtls***
+
+***» detail trojan ws tls***
+
+***» detail trojan tcp tls***
+
+***» detail shadowsocks2022 ws tls***
+
+————————————————————
+
+# spec required:
+
+***» os debian 10 or ubuntu 18.04 or ubuntu 20.04***
+
+***» minimum ram 1 gb***
+
+***» minimum cpu 1***
+
+***» kvm***
 
 ———————————————————
 
-price monthly:
+# price monthly:
 
-» for 1 ip & 1 month = 20k/$2
+***» for 1 ip & 1 month = 20k/$2***
 
-» for 3 ip & 1 month = 40k/$4
+***» for 3 ip & 1 month = 40k/$4***
 
-» for 5 ip & 1 month = 60k/$6
+***» for 5 ip & 1 month = 60k/$6***
 
-price lifetime:
+# price lifetime:
 
-» for 1 ip & lifetime = 60k/$6
+***» for 1 ip & lifetime = 60k/$6***
 
-» for 3 ip & lifetime = 80k/$8
+***» for 3 ip & lifetime = 80k/$8***
 
-» for 5 ip & lifetime = 100k/$10
+***» for 5 ip & lifetime = 100k/$10***
+
+# contact me
+
+***telegram : https://t.me/user_legend***
 
 ———————————————————
 
-syarat & ketentuan [TOS]
+# syarat & ketentuan [TOS]
 
-» 1.dengan menyewa disini = anda menyetujui seluruh syarat & ketentuan yang ada
+***» 1.dengan menyewa disini = anda menyetujui seluruh syarat & ketentuan yang ada***
 
-» 2.tidak ada trial yang diberikan untuk mencoba, jika ragu bisa skip
+***» 2.tidak ada trial yang diberikan untuk mencoba, jika ragu bisa skip***
 
-» 3.jangan backup/restore data vpn dari script lain
+***» 3.jangan backup/restore data vpn dari script lain***
 
-» 4.gunakan vps yang masih fresh & sebaiknya rebuild/reinstall vps terlebih dahulu sebelum menggunakan autoscript dari saya jika sebelumnya pernah setup script lain
+***» 4.gunakan vps yang masih fresh & sebaiknya rebuild/reinstall vps terlebih dahulu sebelum menggunakan autoscript dari saya jika sebelumnya pernah setup script lain***
 
-» 5.tidak ada pergantian ip address apapun alasannya. tetapi jika anda menyewa 3/5 ip anda bisa menggunakan sisa ip yang belum disetup
+***» 5.tidak ada pergantian ip address apapun alasannya. tetapi jika anda menyewa 3/5 ip anda bisa menggunakan sisa ip yang belum disetup***
