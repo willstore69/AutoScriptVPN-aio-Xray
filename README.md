@@ -1,70 +1,145 @@
-# AUTOSCRIPT FOR UBUNTU/DEBIAN
+AUTOSC VPN v2
 
-# CONTACT
-TELEGRAM : https://t.me/user_legend
+- xray 1.5.10
 
-xray versi » 1.5.10
- + VMESS WS TLS &amp; NTLS [443/8880]
- + VMESS TCP TLS [443]
- + VLESS WS TLS &amp; NTLS [443/8880]
- + VLESS TCP XTLS [443]
- + TROJAN TCP TLS [443]
- + TROJAN WS TLS [443]
- + SS2022 WS TLS [443]
- + SSH STUNNEL [6443/777]
- + SSH WS SSL [6443]
- + SSH WS [2052]
- + SQUID PROXY [3128/8080]
- + BADVPN/UDPGW [7100/7200/7300]
- + WEBMIN [10000]
- + OVPN WS [2095]
- + OVPN UDP [2200]
- + OVPN TCP [1194]
- + OVPN SSL [442]
- + SSTP [444]
- + SLOWDNS
- + L2TP
+» vmess ws tls & ntls [default port 443 & 8880]
 
+» vmess tcp http [default port 443]
 
-# Apa Saja Yang Menarik ?
+» vless ws tls & ntls [default port 443 & 8880]
 
-- [+] FREE RANDOM SUBDOMAIN POINTING AWAL SETUP
+» vless tcp xtls [default port 443]
 
-- [+] MULTI PORT XRAY TLS & NTLS
+» trojan ws tls [default port 443]
 
-- [+] CUSTOM CHANGE PATH : VMESS WS,VLESS WS,VMESS TCP HTTP,TROJAN WS,SHADOWSOCKS WS.
+» trojan tcp tls [default port 443]
 
-- [+] AUTO BACKUP VIA BOT TELEGRAM
+» shadowsocks2022 ws tls [default port 443]
 
-- [+] AUTO SEND TRIAL ACCOUNT VPN VIA BOT TELEGRAM
+————————————————————
 
-- [+] AUTO RENEW CERT XRAY 1 BULAN SEKALI 04.00 WIB
+» ssh ws ssl [default port 6443]
 
-- [+] AUTO DELETE EXPIRED ACCOUNT 00.00 WIB
+» stunnel5 [default 6443,777]
 
-- [+] AUTO CLEAR LOG 05.00 WIB
+» ssh ws [default port 2052]
 
-- [+] AUTO REBOOT 2 HARI SEKALI 23.00 WIB
+» ovpn tcp,udp,ssl [default port 1194,2200,442]
 
-- [+] TIMEZONE : ASIA/JAKARTA GMT +7
+» ovpn ws [default port 2095]
 
-- [+] DOS DEFLATE : ON
+» slowdns
 
-- [+] FAIL2BAN : ON
- 
-# OS SUPPORT
-- DEBIAN 9/10
-- UBUNTU 18.04/20.04
-- KVM
+————————————————————
 
-# TAMPILAN AWAL SAAT LOGIN
-![20220908_025805](https://user-images.githubusercontent.com/107354006/188956518-c08c32a4-4025-421a-9c7a-7b707cee3461.jpg)
+» l2tp [default port server 1701]
 
-# TAMPILAN MENU
-![20220908_030208](https://user-images.githubusercontent.com/107354006/188957148-f489a5bb-c58c-4b9e-83eb-6469ba2937a0.jpg)
+» sstp [default port 444]
 
-# TAMPILAN COMMAND : change-port
-![CamScanner 07-09-2022 09 42](https://user-images.githubusercontent.com/107354006/178087003-ac68c21b-b082-4a23-baaf-1e77e2eb4b10.jpg)
+————————————————————
 
-# TAMPILAN COMMAND : force-host
-![20220701_195436](https://user-images.githubusercontent.com/107354006/176889706-414ebd37-765e-4096-853b-6d7e82d445f9.jpg)
+menu change port:
+
+» change port xray tls & ntls
+
+» change port ssh ws ssl & stunnel5
+
+» change port ovpn ssl
+
+» change port sstp
+
+————————————————————
+
+menu change path:
+
+» change path vmess ws tls & ntls
+
+» change path vmess tcp http
+
+» change path vless ws tls & ntls
+
+» change path trojan ws tls
+
+» change path shadowsocks2022 ws tls
+
+————————————————————
+
+menu trial:
+
+» trial ssh ws ssl,ovpn,slowdns
+
+» trial vmess ws tls & ntls
+
+» trial vmess tcp http
+
+» trial vless ws tls & ntls
+
+» trial vless tcp xtls
+
+» trial trojan ws tls
+
+» trial trojan tcp tls
+
+» trial shadowsocks2022 ws tls
+
+————————————————————
+
+menu detail client exist:
+
+» detail vmess ws tls & ntls
+
+» detail vmess tcp http
+
+» detail vless ws tls & ntls
+
+» detail vless tcp xtls
+
+» detail trojan ws tls
+
+» detail trojan tcp tls
+
+» detail shadowsocks2022 ws tls
+
+————————————————————
+
+spec required:
+
+» os debian 10 or ubuntu 18.04 or ubuntu 20.04
+
+» minimum ram 1 gb
+
+» minimum cpu 1
+
+» kvm
+
+———————————————————
+
+price monthly:
+
+» for 1 ip & 1 month = 20k/$2
+
+» for 3 ip & 1 month = 40k/$4
+
+» for 5 ip & 1 month = 60k/$6
+
+price lifetime:
+
+» for 1 ip & lifetime = 60k/$6
+
+» for 3 ip & lifetime = 80k/$8
+
+» for 5 ip & lifetime = 100k/$10
+
+———————————————————
+
+syarat & ketentuan [TOS]
+
+» 1.dengan menyewa disini = anda menyetujui seluruh syarat & ketentuan yang ada
+
+» 2.tidak ada trial yang diberikan untuk mencoba, jika ragu bisa skip
+
+» 3.jangan backup/restore data vpn dari script lain
+
+» 4.gunakan vps yang masih fresh & sebaiknya rebuild/reinstall vps terlebih dahulu sebelum menggunakan autoscript dari saya jika sebelumnya pernah setup script lain
+
+» 5.tidak ada pergantian ip address apapun alasannya. tetapi jika anda menyewa 3/5 ip anda bisa menggunakan sisa ip yang belum disetup
