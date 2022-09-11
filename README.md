@@ -152,3 +152,12 @@
 ***» 4.gunakan vps yang masih fresh & sebaiknya rebuild/reinstall vps terlebih dahulu sebelum menggunakan autoscript dari saya jika sebelumnya pernah setup script lain***
 
 ***» 5.tidak ada pergantian ip address apapun alasannya. tetapi jika anda menyewa 3/5 ip anda bisa menggunakan sisa ip yang belum disetup***
+
+———————————————————
+
+# screenshot autoscript vpn
+![20220911_144835](https://user-images.githubusercontent.com/107354006/189515796-a4a89ca4-5ae3-4ceb-91bb-53295865bbf0.jpg)
+
+![20220911_144903](https://user-images.githubusercontent.com/107354006/189515799-f69320cb-c38c-4627-8c55-5bef38657ab9.jpg)
+
+![20220911_144914](https://user-images.githubusercontent.com/107354006/189515806-0c8b7a09-4b35-4009-a856-09688f90ff46.jpg)
