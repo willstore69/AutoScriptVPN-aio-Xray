@@ -28,6 +28,14 @@
 
 ***» ovpn ws [default port 2095]***
 
+***» open ssh [default port 22,143]***
+
+***» dropbear [default port 109]***
+
+***» udpgw/badvpn [default port 7100,7200,7300]***
+
+***» squid proxy [default port 3127,8080]***
+
 ***» slowdns***
 
 ————————————————————
