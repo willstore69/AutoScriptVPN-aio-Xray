@@ -1,6 +1,6 @@
 # AUTOSC VPN v2
 
-***xray 1.5.10***
+***xray 1.6.0***
 
 ***» vmess ws tls & ntls [default port 443 & 8880]***
 
