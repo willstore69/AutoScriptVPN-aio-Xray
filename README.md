@@ -72,6 +72,22 @@
 
 ————————————————————
 
+# menu change uuid/password:
+
+***» change uuid vmess ws tls & ntls***
+
+***» change uuid vmess tcp http***
+
+***» change uuid vless ws tls & ntls***
+
+***» change uuid vless tcp xtls***
+
+***» change uuid trojan ws tls***
+
+***» change uuid trojan tcp tls***
+
+————————————————————
+
 # menu trial:
 
 ***» trial ssh ws ssl,ovpn,slowdns***
