@@ -182,8 +182,5 @@
 ———————————————————
 
 # screenshot autoscript vpn
-![20220911_144835](https://user-images.githubusercontent.com/107354006/189515796-a4a89ca4-5ae3-4ceb-91bb-53295865bbf0.jpg)
-
-![20220911_144903](https://user-images.githubusercontent.com/107354006/189515799-f69320cb-c38c-4627-8c55-5bef38657ab9.jpg)
-
-![20220911_144914](https://user-images.githubusercontent.com/107354006/189515806-0c8b7a09-4b35-4009-a856-09688f90ff46.jpg)
+![20220919_002414](https://user-images.githubusercontent.com/85050968/190917540-e58268dc-74f2-40e6-82d5-45722b1a02b7.jpg)
+![20220919_002441](https://user-images.githubusercontent.com/85050968/190917533-9b41fee4-e535-48a6-90f2-b788c7bbc8fb.jpg)
