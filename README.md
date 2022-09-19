@@ -48,13 +48,17 @@
 
 # menu change port:
 
-***» change port xray tls & ntls***
+***» change port xray tls***
+
+***» change port xray ntls***
 
 ***» change port ssh ws ssl & stunnel5***
 
 ***» change port ovpn ssl***
 
 ***» change port sstp***
+
+***info : maksud dari xray tls itu, jika diganti maka seluruh protocol vmess ws tls dll yang menggunakan tls akan ikut terganti***
 
 ————————————————————
 
@@ -106,6 +110,8 @@
 
 ***» trial shadowsocks2022 ws tls***
 
+***info : trial dengan random username otomatis dan masa aktif 1 hari***
+
 ————————————————————
 
 # menu detail client exist:
@@ -123,6 +129,8 @@
 ***» detail trojan tcp tls***
 
 ***» detail shadowsocks2022 ws tls***
+
+***info : fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ————————————————————
 
