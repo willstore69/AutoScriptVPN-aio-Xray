@@ -90,6 +90,8 @@
 
 ***» change uuid trojan tcp tls***
 
+***info : punya buyer yang ingin perpanjang akun vpn tapi gabisa direnew karena expired & dihapus dari server? salah satu manfaat menu ini bisa untuk mengubah uuid/id akun agar sama dengan yang lama***
+
 ————————————————————
 
 # menu trial:
@@ -109,6 +111,8 @@
 ***» trial trojan tcp tls***
 
 ***» trial shadowsocks2022 ws tls***
+
+***» trial all list diatas bisa juga lewat bot telegram dengan ketik menu ``auto-sendvpn``***
 
 ***info : trial dengan random username otomatis dan masa aktif 1 hari***
 
@@ -130,7 +134,18 @@
 
 ***» detail shadowsocks2022 ws tls***
 
-***info : fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
+***info : pernah ngalamin dc/keluar sendiri dari vps setelah membuat akun ?
+fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
+
+————————————————————
+
+# menu backup
+
+***» backup via GMAIL***
+
+***» backup via BOT TELEGRAM***
+
+***info : vps mu ngeblock port smtp ? gabisa backup via gmail ? backup via bot telegram solusinya!***
 
 ————————————————————
 
