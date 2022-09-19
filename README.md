@@ -76,7 +76,7 @@
 
 ————————————————————
 
-# menu change uuid/password:
+# menu change uuid/id:
 
 ***» change uuid vmess ws tls & ntls***
 
