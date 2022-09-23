@@ -64,7 +64,7 @@
 
 ————————————————————
 
-# menu change path:
+# change path:
 
 ***» change path vmess ws tls & ntls***
 
@@ -78,7 +78,7 @@
 
 ————————————————————
 
-# menu change uuid/id:
+# change uuid/id:
 
 ***» change uuid vmess ws tls & ntls***
 
@@ -96,7 +96,7 @@
 
 ————————————————————
 
-# menu trial:
+# trial:
 
 ***» trial ssh ws ssl,ovpn,slowdns***
 
@@ -120,7 +120,7 @@
 
 ————————————————————
 
-# menu detail client exist:
+# detail client exist:
 
 ***» detail vmess ws tls & ntls***
 
@@ -141,7 +141,7 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ————————————————————
 
-# menu backup
+# backup
 
 ***» backup via GMAIL***
 
