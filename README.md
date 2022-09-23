@@ -58,7 +58,9 @@
 
 ***» change port sstp***
 
-***info : maksud dari xray tls itu, jika diganti maka seluruh protocol vmess ws tls dll yang menggunakan tls akan ikut terganti***
+***info : mengubah port xray tls maka seluruh protocol vmess ws tls dll yang menggunakan tls akan ikut terganti***
+
+***info : mengubah port stunnel4 6443 akan mengubah ssh ws ssl juga***
 
 ————————————————————
 
