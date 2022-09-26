@@ -155,9 +155,9 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ***» convert user trojan ws to clash***
 
-***info : jenis config clash :***
+***info :***
 
-***standard + adblock default dari sub.bonds.id***
+***jenis config clash : standard + adblock default dari sub.bonds.id***
 
 ————————————————————
 
