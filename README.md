@@ -141,6 +141,22 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ————————————————————
 
+# menu convert to clash config
+
+***» convert user vmess ws to clash***
+
+***» convert user vmess tcp http to clash***
+
+***» convert user vless ws to clash***
+
+***» convert user vless tcp xtls to clash***
+
+***» convert user trojan tcp to clash***
+
+***» convert user trojan ws to clash***
+
+————————————————————
+
 # menu backup
 
 ***» backup via GMAIL***
