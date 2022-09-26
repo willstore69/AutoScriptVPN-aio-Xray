@@ -141,7 +141,7 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ————————————————————
 
-# menu convert to clash config
+# menu convert to clash
 
 ***» convert user vmess ws to clash***
 
@@ -154,6 +154,10 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 ***» convert user trojan tcp to clash***
 
 ***» convert user trojan ws to clash***
+
+***info : jenis config clash :
+
+standard + adblock default dari sub.bonds.id
 
 ————————————————————
 
