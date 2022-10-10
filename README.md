@@ -2,7 +2,7 @@
 
 ***xray 1.6.0***
 
-***» vmess ws tls & ntls [default port 443 & 8880]***
+***» vmess ws tls & ntls [default port 443 & 80]***
 
 ***» vmess tcp http [default port 443]***
 
@@ -18,9 +18,9 @@
 
 ————————————————————
 
-***» ssh ws ssl [default port 6443]***
+***» ssh ws ssl [default port 443]***
 
-***» stunnel5 [default port 6443,777]***
+***» stunnel5 [default port 443,777]***
 
 ***» ssh ws [default port 2052]***
 
