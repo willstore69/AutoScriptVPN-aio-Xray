@@ -227,5 +227,27 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 ———————————————————
 
 # screenshot autoscript vpn
-![20220919_002414](https://user-images.githubusercontent.com/85050968/190917540-e58268dc-74f2-40e6-82d5-45722b1a02b7.jpg)
-![20220919_002441](https://user-images.githubusercontent.com/85050968/190917533-9b41fee4-e535-48a6-90f2-b788c7bbc8fb.jpg)
+***menu awal saat login***
+![20221012_044045](https://user-images.githubusercontent.com/107354006/195197284-685e6251-bb45-4e22-a939-a6b99bab5e74.jpg)
+-
+***menu utama part 1***
+![20221012_044046](https://user-images.githubusercontent.com/107354006/195197306-26d71cd7-2b6b-47d9-a8c1-5385f66d3e87.jpg)
+-
+***menu utama part 2***
+![20221012_044048](https://user-images.githubusercontent.com/107354006/195197326-f08dcdff-7d47-4afc-bf97-0ae7d803c56a.jpg)
+-
+***list informasi ip & protocol***
+![20221012_045911](https://user-images.githubusercontent.com/107354006/195197122-d59961bc-008a-4812-ad8e-a7d19469869a.jpg)
+-
+***menu change domain/force domain***
+![20221012_045926](https://user-images.githubusercontent.com/107354006/195197157-0ad84905-cf0a-4da4-bdde-64ee85abf97f.jpg)
+-
+***menu change path***
+![20221012_045936](https://user-images.githubusercontent.com/107354006/195197188-23129523-7207-4b11-8dfc-d2735086dbab.jpg)
+-
+***menu backup via bot telegram***
+![20221012_045949](https://user-images.githubusercontent.com/107354006/195197225-cc2b8b27-45ab-4565-80a5-c82e996e0cd7.jpg)
+-
+***menu convert user ke clash config***
+![20221012_050621](https://user-images.githubusercontent.com/107354006/195198384-5a6eeba0-5917-4474-bfce-0d1be1954850.jpg)
+-
