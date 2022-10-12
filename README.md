@@ -197,9 +197,9 @@ fungsinya untuk mengecek kembali detail informasi akun vpn yang telah dibuat***
 
 ***» for 1 ip & lifetime = 60k/$6***
 
-***» for 3 ip & lifetime = 90k/$8***
+***» for 3 ip & lifetime = 90k/$9***
 
-***» for 5 ip & lifetime = 120k/$10***
+***» for 5 ip & lifetime = 120k/$12***
 
 # contact me
 
