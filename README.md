@@ -48,11 +48,11 @@
 
 # menu change port:
 
-***» change port xray tls***
+***» change port xray tls, ssh ws ssl & stunnel5***
 
-***» change port xray ntls***
+***» change port xray vmess none-tls***
 
-***» change port ssh ws ssl & stunnel5***
+***» change port xray vless none-tls***
 
 ***» change port ovpn ssl***
 
