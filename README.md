@@ -1,51 +1,33 @@
 # AUTOSC VPN v2
 
-***xray 1.6.0***
+# **List Port & Protocol**
+***xray core 1.6.0 [latest]***
+| List Xray Protocol | List Port |
+| :---: | :---: |
+| Vmess WS TLS & NTLS | 443 & 80 |
+| Vmess TCP HTTP TLS | 443 |
+| Vless WS TLS & NTLS | 443 & 8880 |
+| Vless TCP XTLS | 443 |
+| Trojan WS TLS | 443 |
+| Trojan TCP TLS | 443 |
+| SHADOWSOCKS2022 WS TLS | 443 |
 
-***» vmess ws tls & ntls [default port 443 & 80]***
-
-***» vmess tcp http [default port 443]***
-
-***» vless ws tls & ntls [default port 443 & 8880]***
-
-***» vless tcp xtls [default port 443]***
-
-***» trojan ws tls [default port 443]***
-
-***» trojan tcp tls [default port 443]***
-
-***» shadowsocks2022 ws tls [default port 443]***
-
-————————————————————
-
-***» ssh ws ssl [default port 443]***
-
-***» stunnel5 [default port 443,777]***
-
-***» ssh ws [default port 2052]***
-
-***» ovpn tcp,udp,ssl [default port 1194,2200,442]***
-
-***» ovpn ws [default port 2095]***
-
-***» open ssh [default port 22,143]***
-
-***» dropbear [default port 109]***
-
-***» udpgw/badvpn [default port 7100,7200,7300]***
-
-***» squid proxy [default port 3127,8080]***
-
-***» slowdns***
-
-————————————————————
-
-***» l2tp [default port server 1701]***
-
-***» sstp [default port 444]***
-
-————————————————————
-
+| List SSH & OTHER VPN | List Port |
+| :---: | :---: |
+| SSH WS TLS | 443 |
+| Stunnel5 | 443 |
+| SSH WS | 2052 |
+| Ovpn WS | 2095 |
+| Ovpn TCP | 1194 |
+| Ovpn UDP | 2200 |
+| Ovpn SSL | 442 |
+| Openssh | 22 |
+| Dropbear | 108,143 |
+| Udpgw/Badvpn | 7100,7200,7300 |
+| Squid Proxy | 3127,8080 |
+| Slowdns | - |
+| L2tp | - |
+| SSTP | 444 |
 # menu change port:
 
 ***» change port xray tls, ssh ws ssl & stunnel5***
